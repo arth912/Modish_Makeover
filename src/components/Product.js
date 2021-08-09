@@ -5,7 +5,7 @@ export default class Product extends Component {
         return (
             <div>
 
-            <section class="text-gray-600 body-font -mt-24">
+            <section class="text-gray-600 body-font -mt-24 p-5">
             <div class="container px-5 py-24 mx-auto flex flex-wrap">
                 <div class="flex w-full mb-20 flex-wrap">
                 <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Master Cleanse Reliac Heirloom Products</h1>
